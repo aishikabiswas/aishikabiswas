@@ -1,5 +1,5 @@
 ## Hi there 👋
-💻 [Your Name] - Developer Portfolio
+💻 Aishika Biswas - Developer Portfolio
 
 🚀 About Me
 
