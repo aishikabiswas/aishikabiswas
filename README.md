@@ -46,8 +46,6 @@ Email: aishika.biswas26@gmail.com
 
 LinkedIn: (https://www.linkedin.com/in/aishika-biswas-87b98a326/)
 
-Portfolio: [Your Portfolio URL]
-
 ⭐️ Feel free to explore my repositories and connect with me for collaboration!
 
 
