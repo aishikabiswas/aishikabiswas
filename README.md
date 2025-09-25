@@ -12,7 +12,7 @@
 </div>
 
 # 🌟 About Me
-💻 Frontend Developer & Social Media Manager @ Offbeat India  
+💻 Full Stack Developer @ Mekyek
 🌱 Learning backend development, cross-platform apps, and AI/ML integration  
 🎨 Passionate about black & white minimalist design and pixel-perfect UI  
 🔌 Experienced integrating RESTful APIs & authentication  
@@ -75,5 +75,3 @@
   </a> 
 </p>
 
-
-Which would you prefer — try the static SVG fallback, or swap the streak for a badge/pinned repo card now?
