@@ -1,65 +1,75 @@
-## Hi there 👋
-💻 Aishika Biswas - Developer Portfolio
+<div align="center">
 
-🚀 About Me
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Aishika+Biswas;MERN+Stack+Developer;Frontend+Engineer;AI/ML+Explorer;Cybersecurity+Aspirant" alt="Typing SVG" />
 
-Aspiring Electronics and Communication Engineer with a passion for software development and a strong foundation in frontend and backend technologies. Currently diving into React.js, backend development, data structures & algorithms, and data analysis.
+  <!-- Profile Card -->
+  <div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 600px;">
+    <p style="font-size: 1.1em;">⚡ <b>Frontend Developer</b> | 🛠️ <b>API Integrator</b> | 🎨 <b>UI/UX Focused</b></p>
+    <p>Turning ideas into scalable, responsive web apps with the MERN stack</p>
+  </div>
 
-🎓 Education
+</div>
 
-Degree: Electronics and Communication EngineeringInstitution: Kalyani Government Engineering College Year: 2024 - 2028
+<!-- About Me -->
+<details>
+  <summary><h2>🌟 About Me</h2></summary>
+  <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 10px 0;">
+    <pre>
+💻 Frontend Developer & Social Media Manager @ Offbeat India
+🌱 Currently learning backend development & cross-platform app development
+🎨 Passionate about creating pixel-perfect, user-friendly interfaces
+🔌 Experienced in integrating RESTful APIs & authentication
+📚 Working on TrackED – a personalised learning platform
+🏆 1st Runner-Up, CodeBuzz 2025 | MLH Event Winner - Diversion, IEM 2025
+    </pre>
+  </div>
+</details>
 
-💼 Skills
+<!-- Skills -->
+<h2 align="center">🛠 Tech Stack</h2>
 
-Frontend: HTML, CSS, JavaScript, React.js (Learning)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,vite,git,github,figma,py" alt="Tech icons" />
+</div>
 
-Backend: Python (Learning backend frameworks)
+## 📌 Featured Projects
 
-Tools & Technologies: Git, GitHub
+- **[Alankar – Jewelry Business Frontend](https://alankar-gamma.vercel.app/)**  
+  Fully responsive e-commerce-style frontend built with React, Vite, and Tailwind CSS.  
+  🖌️ Pixel-perfect design | 📱 Mobile-friendly | 🌐 Hosted on Vercel  
 
-Other: Data Analysis, DSA (Data Structures and Algorithms)
+- **[TrackED – Customised Learning Platform](https://track-ed-enigma.vercel.app/)**  
+  Web application for personalised education, real-time tracking & modular learning paths.  
+  🚀 Built with React, Vite & Tailwind | ♿ Accessible & fast | 🎯 Student-focused  
 
-🛠️ Projects
+## 📈 GitHub Stats
 
-✅ To-Do List App
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishikabiswas&show_icons=true&theme=tokyonight" alt="Aishika's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aishikabiswas&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+</p>
 
-Description: A simple to-do list application to manage daily tasks.Tech Stack: HTML, CSS, JS 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishikabiswas&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
+</p>
 
-🧮 Calculator App
+## 📬 Get in Touch
+<p align="center"> 
+  <a href="https://github.com/aishikabiswas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a> 
+  <a href="https://www.linkedin.com/in/aishika-biswas-87b98a326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
+  <a href="mailto:aishika.biswas26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a> 
+</p>
 
-Description: A basic calculator application with a graphical interface.Tech Stack: Python, Tkinter
+---
 
-🎮 Hangman Game
+## 🧠 Quote I Love
 
-Description: A classic hangman game with a graphical interface.Tech Stack: Python, Tkinter
-📈 Experience
-
-Intern - KeyGEn Coders @Kalyani Government Engineering College 
-
-📜 Certifications
-
-Python Basic- HACKERRANK
-
-📫 Contact
-
-Email: aishika.biswas26@gmail.com
-
-LinkedIn: (https://www.linkedin.com/in/aishika-biswas-87b98a326/)
-
-⭐️ Feel free to explore my repositories and connect with me for collaboration!
-
-
-<!--
-**aishikabiswas/aishikabiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “In the middle of every difficulty lies opportunity.”  
+> Let's build something meaningful together. 🚀
