@@ -13,7 +13,6 @@
 
 # 🌟 About Me
 💻 Full Stack Developer @ Mekyek
-
 🌱 Learning backend development, cross-platform apps, and AI/ML integration  
 🎨 Passionate about black & white minimalist design and pixel-perfect UI  
 🔌 Experienced integrating RESTful APIs & authentication  
